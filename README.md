@@ -2,6 +2,7 @@
 
 - Aspiring software engineer
 - Currently working on finishing my Web Development bootcamp with CoGrammar
+- Looking forward to working with others on my journey!
 
 <!--
 **nw-790/nw-790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
