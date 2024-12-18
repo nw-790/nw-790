@@ -1,7 +1,8 @@
 # Hello there 👋
 
 - Aspiring software engineer
-- Currently working on finishing my Web Development bootcamp with CoGrammar
+- Recently finished a 16-week Web Development Bootcamp with CoGrammar as well as an 8-week Software Development and Testing bootcamp with Gateshead College
+- Currently looking for graduate/junior Software Development roles to get my foot in the door as a programmer
 - Looking forward to working with others on my journey!
 
 <!--
